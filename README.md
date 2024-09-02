@@ -1,2 +1,2 @@
 # HexSoftwares-Personal-Portfolio
-Personal Portfolio
+HexSoftwares-Persona-Portfolio
